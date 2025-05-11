@@ -1,6 +1,4 @@
-# aws-autoscaling-comparison
-
-## Comparison of AI and Rule Based Auto Scaling Solutions on Amazon Web Services
+# Comparison of AI and Rule Based Auto Scaling Solutions on Amazon Web Services
 The object of the project is to ___compare the performance of different auto scaling solutions provided by the AWS___ on a simple microservices based application. 
 
 The different methods to compare are as follows:
