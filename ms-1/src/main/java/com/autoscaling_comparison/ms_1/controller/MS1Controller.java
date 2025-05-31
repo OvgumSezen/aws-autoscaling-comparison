@@ -9,8 +9,8 @@ import java.util.List;
 @RestController
 @RequestMapping("/ms1")
 public class MS1Controller {
-    long min = 1000000;
-    long max = 10000000;
+    long min = 10000;
+    long max = 100000;
     long range = max - min + 1;
 
     @GetMapping
